@@ -21,8 +21,9 @@ jobs:
       - name: Install web-ext
         run: npm install --global web-ext
 
-      - name: Run web-ext lint
-        run: web-ext lint
+      # disabled, because it does not currently work with v3 manifests
+      # - name: Run web-ext lint
+      #   run: web-ext lint
 
   firefox:
     name: Package for Firefox
