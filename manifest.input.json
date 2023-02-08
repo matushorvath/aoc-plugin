@@ -1,6 +1,6 @@
 {
     "common": {
-        "name": "AoC Time Logger",
+        "name": "AoC Time Logger (MH)",
         "version": "2.1.7",
         "description": "Logs time when user opens the task",
         "permissions": [
@@ -35,7 +35,7 @@
         },
         "browser_specific_settings": {
             "gecko": {
-                "id": "{aaf1b8ea-aca7-4fbe-aa96-77ecbfa4854c}"
+                "id": "{7d4b8dd6-c679-4c9a-a323-e06eaf4a663d}"
             }
         }
     }
